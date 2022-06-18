@@ -1,4 +1,4 @@
-  GNU nano 6.3                                                                           /home/artem/protect.sh                                                                                     
+# GNU nano 6.3                                                                           /home/artem/protect.sh                                                                                     
 function protect(){
 echo "apply protection"
 sudo chattr +i -R "$1"
