@@ -1,6 +1,6 @@
 # protect.sh
 
-Disable or enable modification flag at folder recursively
+Disable or enable modification flag at folder recursively and changes permissions and user owner to disallow open under non root user
 
 Example:
 ```
